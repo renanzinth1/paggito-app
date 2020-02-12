@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">paggito-app</string>
+    <string name="financas">Finanças</string>
+    <string name="faturas">Faturas</string>
+    <string name="carteira">Carteira</string>
+    <string name="paggito">PAGGITO!</string>
+</resources>
